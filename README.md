@@ -1,16 +1,50 @@
-# flutter_application_1
+# 🍳 Breakfast Recipe UI
 
-A new Flutter project.
+This is a simple and clean Flutter UI project focused on breakfast recipes. It was created as part of my Flutter learning journey to practice layout design, widget composition, and UI responsiveness.
 
-## Getting Started
+## 📱 Screenshot
 
-This project is a starting point for a Flutter application.
+<img src="assets/images/screenshot1.jpeg" alt="Breakfast Recipe UI Screenshot" width="300"/>
+<img src="assets/images/screenshot2.jpeg" alt="Breakfast Recipe UI Screenshot" width="300"/>
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Modern and aesthetic Flutter UI
+- Search bar with filter icon
+- Food category cards (e.g., Salad, Cake, Pie)
+- Diet-based recommendations (e.g., Honey Pancake, Canai Bread)
+- Popular items list
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎯 Purpose
+
+This project was made to:
+
+- Learn and practice basic Flutter UI design
+- Explore layout widgets like `Row`, `Column`, `Container`, `ListView`, and `GridView`
+- Develop clean, structured UI screens suitable for mobile apps
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/breakfast-recipe-ui.git
+   cd breakfast-recipe-ui
+
+2. **Install dependencies:**
+    flutter pub get
+
+3. **Run the app:**
+    Run the app:
+
+## 🛠️ Tech Stack
+
+    Flutter
+    Dart
+
+## 📌 Note
+This project is UI-only and does not include backend or functionality (e.g., navigation, data handling). It is meant purely for design practice.
+
+## 📬 Feedback
+Feel free to fork this repo, open issues, or submit pull requests if you have suggestions or improvements!
